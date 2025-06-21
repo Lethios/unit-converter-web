@@ -1,8 +1,8 @@
-# Unit Converter Web
+# Web Unit Converter
 
 This is a web-based unit conversion tool built using [Streamlit](https://streamlit.io) and [Pint](https://pint.readthedocs.io/). It allows users to convert values between various units of length, weight, and temperature with a simple, intuitive interface. Ideal for quick conversions and educational use.
 
-Try it out: [Unit Converter](https://lethios-unit-converter-web.streamlit.app/)
+Try it out: [Web Unit Converter](https://lethios-unit-converter-web.streamlit.app/)
 
 ## Features
 - Web-based Interface
