@@ -1,21 +1,25 @@
-# Project Name
+# Unit Converter Web
 
-Project description
+This is a web-based unit conversion tool built using [Streamlit](https://streamlit.io) and [Pint](https://pint.readthedocs.io/). It allows users to convert values between various units of length, weight, and temperature with a simple, intuitive interface. Ideal for quick conversions and educational use.
+
+Try it out: [Unit Converter]()
 
 ## Features
+- Web-based Interface
+- Supports Length, Weight, and Temperature Conversions
+- User-Friendly Input Flow
+- Lightweight and Fast
 
 ## Installation
 1. **Ensure Python is installed (Python 3.x recommended).**
 2. Clone the repository and install the dependencies:
  ```bash
-  git clone https://github.com/Lethios/project.git
-  cd project
+  git clone https://github.com/Lethios/unit-converter-web.git
+  cd unit-converter-web
   ```
   ```bash
   pip install -r requirements.txt
   ```
-
-## Usage
 
 ## Author
 **Lethios**
